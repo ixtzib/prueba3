@@ -1,7 +1,18 @@
 ---
-title: Home
+title: My Git Learning Journey
 layout: home
 ---
+
+Hello! My name is Edel and this is my attempt to make a website using GitHub Pages using Jekyll and the Just the Docs theme. 
+
+I will keep updating this document as I learn how to add more features. 
+
+Thank you for visiting. 
+
+:) 
+
+
+
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
