@@ -54,8 +54,8 @@ jobs:
 
 # Define Jekyll collections
 collections:
-  # Define a collection named "Topics", its documents reside in the "_Topics" directory
-  topics:
+  # Define a collection named "Git", its documents reside in the "_Git" directory
+  git:
     permalink: "/:collection/:path/"
     output: true
 
