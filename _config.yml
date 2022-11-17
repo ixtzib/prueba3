@@ -68,3 +68,9 @@ callouts:
   new:
     title: New
     color: green
+
+
+  ```yaml
+  plugins:
+    - jekyll-default-layout
+  ```
