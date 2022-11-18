@@ -5,7 +5,7 @@ parent: Design
 nav_order: 2
 ---
 
-<H1>Yay! Child Page Created<H1>
+# H1 Yay! Child Page Created
 
 A paragraph explaining why this page is here. 
 
